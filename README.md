@@ -32,6 +32,7 @@ Systems: Linux architecture, custom server hosting, and local AI deployment.
 Code is the tool. Constant learning is the path. Evolution is the objective.
 
 ## 7w7
+![GitHub Stats Card](https://ghstats.dev/api/card?username=rodbarrdaniel-coder&theme=radical)
 
 
 ![js](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg )
