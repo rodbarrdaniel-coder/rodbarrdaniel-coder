@@ -1,7 +1,6 @@
-<img width="320" height="665" alt="image" src="https://github.com/user-attachments/assets/e903e3b5-78bc-4a4a-b44d-c073039327d2" />
 # Hi, I'm Keychy ![test](https://static.wikitide.net/astralpartywiki/b/ba/Emoji_HaiQing_9.png)
 
-# About Me ![test2]()
+# About Me ![test2](https://static.wikitide.net/astralpartywiki/c/c8/Emoji_Mimi_10.png)
 
 ---
 
