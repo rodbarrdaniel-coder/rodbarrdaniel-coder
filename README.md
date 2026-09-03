@@ -50,11 +50,8 @@ Code is the tool. Constant learning is the path. Evolution is the objective.
 ![5](https://static.wikitide.net/astralpartywiki/c/c8/Emoji_Mimi_10.png)
 
 <img src= "https://static.wikitide.net/bluearchivewiki/thumb/7/7f/Kotone_00.png/320px-Kotone_00.png">
-<img src="https://img4.gelbooru.com//samples/24/3b/sample_243b93ec7bd9be141033a286c5971008.jpg">
-<img src="https://img4.gelbooru.com//samples/36/e2/sample_36e20a3ba18355221a293746b7c4d862.jpg">
-<img src="https://img4.gelbooru.com//samples/be/79/sample_be792df4321ac99de31984758a665a9a.jpg">
-<img src="https://img4.gelbooru.com//samples/24/3b/sample_243b93ec7bd9be141033a286c5971008.jpg">
-<img src="https://img4.gelbooru.com//samples/36/e2/sample_36e20a3ba18355221a293746b7c4d862.jpg">
-
+<img src="https://wimg.rule34.xxx//samples/3166/sample_d7a829f5c793dab51df02aca681ad073.jpg?18302274" width="60">
+<img src="https://wimg.rule34.xxx//samples/2164/sample_37e309659d17dcab407f6d877d81df8c.jpg?18302286"width="60">
+<img src="https://wimg.rule34.xxx//samples/1665/sample_a021c3447d531e9ebc5fabb0e4784ad5.jpg?17126381" width="60">
 
 
