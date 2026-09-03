@@ -1,7 +1,7 @@
 
-# Hi, I'm Keychy ![test](https://static.wikitide.net/bluearchivewiki/8/80/Portrait_Nozomi.png)
+# Hi, I'm Keychy ![test](https://static.wikitide.net/astralpartywiki/b/ba/Emoji_HaiQing_9.png)
 
-# About Me
+# About Me ![test2](https://static.wikitide.net/astralpartywiki/b/ba/Emoji_HaiQing_9.png)
 
 ---
 
