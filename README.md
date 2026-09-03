@@ -1,7 +1,7 @@
-
+<img width="320" height="665" alt="image" src="https://github.com/user-attachments/assets/e903e3b5-78bc-4a4a-b44d-c073039327d2" />
 # Hi, I'm Keychy ![test](https://static.wikitide.net/astralpartywiki/b/ba/Emoji_HaiQing_9.png)
 
-# About Me ![test2](https://static.wikitide.net/astralpartywiki/b/ba/Emoji_HaiQing_9.png)
+# About Me ![test2]()
 
 ---
 
@@ -46,7 +46,10 @@ Code is the tool. Constant learning is the path. Evolution is the objective.
 
 ![3](https://static.wikitide.net/astralpartywiki/4/41/Emoji_HaiQing_3.png)
 ![4](https://static.wikitide.net/astralpartywiki/f/fe/Emoji_HaiQing_10.png)
-![HaiQing](https://static.wikitide.net/astralpartywiki/thumb/f/fc/HaiQing_Main.png/206px-HaiQing_Main.png)![2](https://static.wikitide.net/astralpartywiki/thumb/3/35/LingLing_Main.png/206px-LingLing_Main.png)
+![4](https://static.wikitide.net/astralpartywiki/0/07/Emoji_Mimi_11.png)
+![5](https://static.wikitide.net/astralpartywiki/c/c8/Emoji_Mimi_10.png)
+
+<img src= "https://static.wikitide.net/bluearchivewiki/thumb/7/7f/Kotone_00.png/320px-Kotone_00.png">
 
 
 
