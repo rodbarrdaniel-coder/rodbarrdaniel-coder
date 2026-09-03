@@ -44,6 +44,9 @@ Code is the tool. Constant learning is the path. Evolution is the objective.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" width="40" hspace="4">
 </p>
 
+![3](https://static.wikitide.net/astralpartywiki/4/41/Emoji_HaiQing_3.png)
+![4](https://static.wikitide.net/astralpartywiki/f/fe/Emoji_HaiQing_10.png)
+![HaiQing](https://static.wikitide.net/astralpartywiki/thumb/f/fc/HaiQing_Main.png/206px-HaiQing_Main.png)![2](https://static.wikitide.net/astralpartywiki/thumb/3/35/LingLing_Main.png/206px-LingLing_Main.png)
 
 
 
