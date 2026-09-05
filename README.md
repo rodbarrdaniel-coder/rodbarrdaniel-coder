@@ -47,13 +47,9 @@ Code is the tool. Constant learning is the path. Evolution is the objective.
 </p>
 
 ![3](https://static.wikitide.net/astralpartywiki/4/41/Emoji_HaiQing_3.png)
-![4](https://static.wikitide.net/astralpartywiki/f/fe/Emoji_HaiQing_10.png)
 ![4](https://static.wikitide.net/astralpartywiki/0/07/Emoji_Mimi_11.png)
 ![5](https://static.wikitide.net/astralpartywiki/c/c8/Emoji_Mimi_10.png)
 
 <img src= "https://static.wikitide.net/bluearchivewiki/thumb/7/7f/Kotone_00.png/320px-Kotone_00.png">
-<img src="https://wimg.rule34.xxx//samples/3166/sample_d7a829f5c793dab51df02aca681ad073.jpg?18302274" width="60">
-<img src="https://wimg.rule34.xxx//samples/2164/sample_37e309659d17dcab407f6d877d81df8c.jpg?18302286"width="60">
-<img src="https://wimg.rule34.xxx//samples/1665/sample_a021c3447d531e9ebc5fabb0e4784ad5.jpg?17126381" width="60">
 
 
