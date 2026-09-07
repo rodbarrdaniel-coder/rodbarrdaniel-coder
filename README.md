@@ -1,10 +1,8 @@
-![wallpaper](https://media1.tenor.com/m/Mfz4eOJ2oawAAAAd/astral-party.gif)
-# Hi, I'm Keychy ![test](https://static.wikitide.net/astralpartywiki/b/ba/Emoji_HaiQing_9.png)
+![name](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Keychy&reversal=false&animation=fadeIn&rotate=0&stroke=20)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodbarrdaniel-coder&theme=neon-dark)](https://git.io/streak-stats)
 
 # About Me ![test2](https://static.wikitide.net/astralpartywiki/c/c8/Emoji_Mimi_10.png)
-
 ---
-
 I am Keychy. A passionate, self-taught technology apprentice and developer-in-training, deeply interested in learning AI development.
 
 I am driven by an endless curiosity to understand how systems work under the hood. I strongly believe in the power of independent study. It is not that I dislike the traditional educational system, but I simply refuse to settle for it. I prefer to go further and forge my own path—learning by doing, experimenting, breaking things, and rebuilding them better. I have explored a bit of everything to build a solid foundation, maintaining a strict mindset of continuous improvement, and I am currently adapting my workflow to leverage AI as a daily partner in my development process.
