@@ -50,8 +50,8 @@ Code is the tool. Constant learning is the path. Evolution is the objective.
 
 
 <p align="left">
-  <img src="https://static.wikitide.net/bluearchivewiki/thumb/7/7f/Kotone_00.png/320px-Kotone_00.png" width="100"  hspace="4">
-  <img src="https://static.wikitide.net/astralpartywiki/thumb/0/0f/HaiQing_Costume_OldFull_SFW.png/800px-HaiQing_Costume_OldFull_SFW.png" width="100" hspace="4">
+  <img src="https://static.wikitide.net/bluearchivewiki/thumb/7/7f/Kotone_00.png/320px-Kotone_00.png" width="300"  hspace="4">
+  <img src="https://static.wikitide.net/astralpartywiki/thumb/0/0f/HaiQing_Costume_OldFull_SFW.png/800px-HaiQing_Costume_OldFull_SFW.png" width="400" hspace="4">
 </p>
 
 
