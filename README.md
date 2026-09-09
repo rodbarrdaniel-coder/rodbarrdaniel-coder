@@ -1,9 +1,10 @@
 ![name](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Keychy&reversal=false&animation=fadeIn&rotate=0&stroke=20)
 
 ## contact
-<img src="https://static.wikitide.net/bluearchivewiki/thumb/f/f5/Rio_%28Battle%29_00.png/320px-Rio_%28Battle%29_00.png" width="250" alignn="left">
+
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodbarrdaniel@gmail.com">
+  <img src="https://static.wikitide.net/bluearchivewiki/thumb/f/f5/Rio_%28Battle%29_00.png/320px-Rio_%28Battle%29_00.png" width="250" alignn="left">
   <img src="https://cdn.simpleicons.org/gmail" width="400" align="rigth" alt="Gmail">
 </a> 
 
