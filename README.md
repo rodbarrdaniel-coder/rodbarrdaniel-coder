@@ -2,10 +2,12 @@
 
 ## contact
 <img src="https://static.wikitide.net/bluearchivewiki/thumb/f/f5/Rio_%28Battle%29_00.png/320px-Rio_%28Battle%29_00.png" width="250" alignn="left">
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodbarrdaniel@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="35" align="center" alt="Gmail">
+  <img src="https://cdn.simpleicons.org/gmail" width="400" align="rigth" alt="Gmail">
 </a> 
-<img src="https://static.wikitide.net/bluearchivewiki/thumb/8/87/Nozomi_00.png/463px-Nozomi_00.png?20241006025114" width="250" align="right">
+
+<img src="https://static.wikitide.net/bluearchivewiki/thumb/8/87/Nozomi_00.png/463px-Nozomi_00.png?20241006025114" width="230" align="right">
 
 
 <div align="center">
