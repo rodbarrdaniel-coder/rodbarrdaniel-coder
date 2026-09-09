@@ -1,5 +1,18 @@
 ![name](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Keychy&reversal=false&animation=fadeIn&rotate=0&stroke=20)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodbarrdaniel-coder&theme=neon-dark)](https://git.io/streak-stats)
+
+## contact
+<img src="https://static.wikitide.net/bluearchivewiki/thumb/f/f5/Rio_%28Battle%29_00.png/320px-Rio_%28Battle%29_00.png" width="250" alignn="left">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodbarrdaniel@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="35" align="right" alt="Gmail">
+</a> 
+<img src="https://static.wikitide.net/bluearchivewiki/thumb/8/87/Nozomi_00.png/463px-Nozomi_00.png?20241006025114" width="250" align="right">
+
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rodbarrdaniel-coder&theme=youtube-dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 # About Me ![test2](https://static.wikitide.net/astralpartywiki/c/c8/Emoji_Mimi_10.png)
 ---
